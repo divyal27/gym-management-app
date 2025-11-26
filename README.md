@@ -490,7 +490,7 @@ sudo netstat -tulpn | grep :3000
 
 ## 📫 Contact
 
-**Developer:** Divyal Patel  
+**Developer:** Divyal Padalkar
 **University:** Savitribai Phule Pune University  
 **Purpose:** DevOps Learning & Job Portfolio  
 **GitHub:** [github.com/divyal27](https://github.com/divyal27)
